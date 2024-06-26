@@ -3,6 +3,8 @@
 Motivation and Problem:
 Customer reviews are essential in business as they greatly affect sales and customer satisfaction. In a market full of choices, these reviews can sway consumer decisions. They're crucial for businesses not only to fix current issues like Product relevance and quality control but also for long-term planning and success. Reviews act as a direct link between customers and companies, offering honest feedback. This feedback is key for improving products, building brand trust, and understanding market trends.
 This motivated me to design a system in such a way that it not only collects and interprets customer feedback but also turns it into actionable insights for product development, marketing strategies, and customer service improvement. This system is essential to enhance product quality, elevate customer satisfaction, and reduce the financial and reputational risks linked to product failures.
+
+
 Solution:
 The core of our solution involves the use of advanced algorithms and machine learning models, such as Random Forest Classifier for sentiment analysis and Latent Dirichlet Allocation (LDA), BERT model to accurately classify sentiments and extract relevant topics from text data. 
 
